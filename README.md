@@ -58,7 +58,7 @@ A simple Spring Boot application to manage employee attendance with role-based a
 
 ##  Author
 
-Developed by [Keerthi Kodiboina]
+Developed by Keerthi Kodiboina
 
 ---
 
